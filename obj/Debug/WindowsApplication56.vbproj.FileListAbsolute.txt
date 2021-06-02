@@ -1,0 +1,79 @@
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.exe
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.pdb
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.xml
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.vbproj.GenerateResource.Cache
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.exe
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.xml
+C:\Users\Bhinneka SuperStore\Documents\Visual Studio 2008\Projects\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.pdb
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.exe
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.xml
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.pdb
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.exe
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.pdb
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.xml
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication1.Form1.resources
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication1.Resources.resources
+d:\kul\Computer Graphics And Animation\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.vbproj.GenerateResource.Cache
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.exe
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.xml
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.pdb
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.exe
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.pdb
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\bin\Debug\WindowsApplication56.xml
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication1.Form1.resources
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication1.Resources.resources
+d:\kul\Computer Graphics And Animation\2012\WindowsApplication56\WindowsApplication56\obj\Debug\WindowsApplication56.vbproj.GenerateResource.Cache
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\obj\Debug\WindowsApplication56.exe
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\obj\Debug\WindowsApplication56.xml
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\obj\Debug\WindowsApplication56.pdb
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\bin\Debug\WindowsApplication56.exe
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\bin\Debug\WindowsApplication56.pdb
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\bin\Debug\WindowsApplication56.xml
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\obj\Debug\WindowsApplication1.Form1.resources
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\obj\Debug\WindowsApplication1.Resources.resources
+d:\kul\Computer Graphics And Animation\2018\sample program\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.GenerateResource.Cache
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\bin\Debug\WindowsApplication56.exe
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.vbprojAssemblyReference.cache
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.GenerateResource.cache
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.CoreCompileInputs.cache
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.exe
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.xml
+C:\Users\wilbe\Downloads\CGA\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.pdb
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\bin\Debug\WindowsApplication56.exe
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\bin\Debug\WindowsApplication56.pdb
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\bin\Debug\WindowsApplication56.xml
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.vbprojAssemblyReference.cache
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.GenerateResource.cache
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.CoreCompileInputs.cache
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.exe
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.xml
+C:\Users\wilbe\Downloads\sprite animation v1\sprite animation v1\obj\Debug\WindowsApplication56.pdb
+C:\Users\wilbe\Downloads\sprite animation v1\bin\Debug\WindowsApplication56.exe
+C:\Users\wilbe\Downloads\sprite animation v1\bin\Debug\WindowsApplication56.pdb
+C:\Users\wilbe\Downloads\sprite animation v1\bin\Debug\WindowsApplication56.xml
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication56.vbprojAssemblyReference.cache
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.GenerateResource.cache
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.CoreCompileInputs.cache
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication56.exe
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication56.xml
+C:\Users\wilbe\Downloads\sprite animation v1\obj\Debug\WindowsApplication56.pdb
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\bin\Debug\WindowsApplication56.exe
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\bin\Debug\WindowsApplication56.pdb
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\bin\Debug\WindowsApplication56.xml
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication56.vbprojAssemblyReference.cache
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.GenerateResource.cache
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication56.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication56.exe
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication56.xml
+C:\Users\Richard Owen H\OneDrive\Documents\President University (PU)\4rd Semester\Computer Graphics and Animation\Project\Sprite Animation\Code\sprite animation v1\obj\Debug\WindowsApplication56.pdb
